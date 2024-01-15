@@ -281,10 +281,58 @@ FROM
 
 
 ## Data Visualization
+Tableau Dashboard:<https://public.tableau.com/app/profile/vraj.patel1693/viz/CovidVacination_17045511504310/Dashboard2>
+<https://public.tableau.com/app/profile/vraj.patel1693/viz/DEATHDATA/Dashboard1>
 
 Visualize the analyzed data with the following:
 
 - [Visualization 1: Interactive map of  worldwide.]
 - [Visualization 2: Time series plots showing the progression of vaccination.]
 - [Visualization 3: Tableau visualizations for vaccination trends.]
+  # COVID-19 Data Visualization
+
+## Part 1: Vaccination Data Visualization
+
+### Continent-wise Vaccination Coverage
+
+For this visualization, my aim to represent the vaccination coverage on a global scale, categorized by continents.
+
+
+#### Tableau Visualization
+
+- Utilizing Tableau, I have created an interactive visualization that displays the vaccination status for each continent.
+- The visualization includes key metrics such as total vaccinations, vaccinations per capita, and the percentage of the population partially and fully vaccinated.
+
+### Global Vaccination Progress on World Map
+
+To visually represent the global vaccination progress, I have created a dynamic world map visualization.
+![vac-p-100](https://github.com/vraj9860/c0vidDATA/assets/141504835/b50067de-f8c9-4085-8ed4-a5f69b1cb94d)
+
+#### Tableau Visualization
+
+- The Tableau world map visualization illustrates the vaccination progress by country.
+- Colors represent different levels of vaccination coverage, allowing for a quick assessment of which regions have higher or lower vaccination rates.
+  ![gdp-100 (1)](https://github.com/vraj9860/c0vidDATA/assets/141504835/519eb343-140d-4943-8a63-09dce1adaaef)
+
+### Partially and Fully Vaccinated Population
+
+- To gain insights into the percentage of partially and fully vaccinated populations, we've created a visualization that focuses on this specific aspect.
+- Also visualization illustrates the proportion of individuals who have received at least one dose (partially vaccinated) and those who have completed the vaccination series (fully vaccinated) globally.
+  ![par-ful-lo](https://github.com/vraj9860/c0vidDATA/assets/141504835/cc238b92-01b8-4f8f-9f7b-29820feedbd6)
+
+
+## Part 2: Death Ratio and Affected Population Visualization
+
+### Death Ratio and Affected Population by Country
+
+- Visualization focuses on portraying the death ratio and affected population for each country using a map-based representation.
+  ![Sheet 3](https://github.com/vraj9860/c0vidDATA/assets/141504835/4a03b194-0d3d-4fa2-b542-c648d3a8f8d7)
+
+#### Tableau Visualization
+
+- The Tableau visualization offers a country-level view of the death ratio (percentage of deaths among total cases) and the percentage of the population affected by COVID-19.
+
+![Sheet 4](https://github.com/vraj9860/c0vidDATA/assets/141504835/ab3b321d-1683-4528-8658-96b1c35ca595)
+
+
 

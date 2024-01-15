@@ -16,7 +16,7 @@ This project focuses on analyzing COVID-19 data using SQL queries and presenting
 
 - SQL queries for COVID-19 data cleaning and analysis
 - Data visualization using Tableau for vaccination trends 
-- Exploration of key metrics like confirmed cases, deaths, and vacination
+- Exploration of key metrics like confirmed cases, deaths, and vaccination
 - Comparative analysis across countries and regions
 
 ## Prerequisites
@@ -34,17 +34,14 @@ To utilize this project, follow these steps:
 
 2. Explore the Tableau visualizations for vaccination trends located in the [tableau_visualizations](/tableau_visualizations) directory.
 
-3. Execute the remaining data visualization scripts located in the [visualization](/visualization) directory using Python.
-
-4. [Provide any additional usage instructions]
 
 ## SQL Queries
 
 Explore COVID-19 data through the following SQL queries:
 
 - [Query 1: Cleaning the raw data and preparing it for analysis.]
-- [Query 2: Total confirmed cases, deaths, and recoveries globally.]
-- [Query 3: Comparative analysis of cases in specific regions or countries.]
+- [Query 2: Total confirmed cases, deaths, and vaccination globally.]
+- [Query 3: Comparative analysis of vaccine in specific regions or countries.]
 - [Query 4: Identify hotspots and trends over time.]
 
 ## Data Visualization
@@ -52,17 +49,11 @@ Explore COVID-19 data through the following SQL queries:
 Visualize the analyzed data with the following:
 
 - [Visualization 1: Interactive map of  worldwide.]
-- [Visualization 2: Time series plots showing the progression of vacination.]
+- [Visualization 2: Time series plots showing the progression of vaccination.]
 - [Visualization 3: Tableau visualizations for vaccination trends.]
-- [Any other visualizations you've created]
-
-## Contributing
-
-Contributions are welcome! Please check the [contribution guidelines](CONTRIBUTING.md) before getting started.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]<https://creativecommons.org/licenses/by/4.0/>
 
-[Optional: Add badges, acknowledgments, or other relevant information]
 
